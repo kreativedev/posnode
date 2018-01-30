@@ -1,0 +1,11 @@
+django>=1.11,<2
+mysqlclient
+django-extensions==1.7.6
+django-debug-toolbar==1.6
+django-allauth==0.30.0
+pytz==2016.10
+django-redis-cache==1.7.1
+braintree==3.35.0
+raven==6.0.0
+django-kronos==1.0
+slacker==0.9.42
